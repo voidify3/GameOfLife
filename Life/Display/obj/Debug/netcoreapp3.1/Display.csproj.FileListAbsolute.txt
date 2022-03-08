@@ -1,0 +1,9 @@
+C:\Users\sophi\OneDrive - Queensland University of Technology\CLASS FILES\cab201\CAB201_2020S2_ProjectPartA_n10779141\CAB201_2020S2_ProjectPartA_nXXXXXXXX\Life\Display\bin\Debug\netcoreapp3.1\display.deps.json
+C:\Users\sophi\OneDrive - Queensland University of Technology\CLASS FILES\cab201\CAB201_2020S2_ProjectPartA_n10779141\CAB201_2020S2_ProjectPartA_nXXXXXXXX\Life\Display\bin\Debug\netcoreapp3.1\display.dll
+C:\Users\sophi\OneDrive - Queensland University of Technology\CLASS FILES\cab201\CAB201_2020S2_ProjectPartA_n10779141\CAB201_2020S2_ProjectPartA_nXXXXXXXX\Life\Display\bin\Debug\netcoreapp3.1\display.pdb
+C:\Users\sophi\OneDrive - Queensland University of Technology\CLASS FILES\cab201\CAB201_2020S2_ProjectPartA_n10779141\CAB201_2020S2_ProjectPartA_nXXXXXXXX\Life\Display\obj\Debug\netcoreapp3.1\Display.csprojAssemblyReference.cache
+C:\Users\sophi\OneDrive - Queensland University of Technology\CLASS FILES\cab201\CAB201_2020S2_ProjectPartA_n10779141\CAB201_2020S2_ProjectPartA_nXXXXXXXX\Life\Display\obj\Debug\netcoreapp3.1\Display.AssemblyInfoInputs.cache
+C:\Users\sophi\OneDrive - Queensland University of Technology\CLASS FILES\cab201\CAB201_2020S2_ProjectPartA_n10779141\CAB201_2020S2_ProjectPartA_nXXXXXXXX\Life\Display\obj\Debug\netcoreapp3.1\Display.AssemblyInfo.cs
+C:\Users\sophi\OneDrive - Queensland University of Technology\CLASS FILES\cab201\CAB201_2020S2_ProjectPartA_n10779141\CAB201_2020S2_ProjectPartA_nXXXXXXXX\Life\Display\obj\Debug\netcoreapp3.1\Display.csproj.CoreCompileInputs.cache
+C:\Users\sophi\OneDrive - Queensland University of Technology\CLASS FILES\cab201\CAB201_2020S2_ProjectPartA_n10779141\CAB201_2020S2_ProjectPartA_nXXXXXXXX\Life\Display\obj\Debug\netcoreapp3.1\display.dll
+C:\Users\sophi\OneDrive - Queensland University of Technology\CLASS FILES\cab201\CAB201_2020S2_ProjectPartA_n10779141\CAB201_2020S2_ProjectPartA_nXXXXXXXX\Life\Display\obj\Debug\netcoreapp3.1\display.pdb

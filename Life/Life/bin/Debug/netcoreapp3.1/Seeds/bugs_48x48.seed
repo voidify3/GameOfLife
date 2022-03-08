@@ -1,0 +1,5 @@
+#version=2.0
+(o) ellipse : 36, 36, 47, 47
+(x) ellipse : 41, 41, 47, 47
+(o) ellipse : 21, 17, 32, 28
+(x) ellipse : 21, 22, 27, 28

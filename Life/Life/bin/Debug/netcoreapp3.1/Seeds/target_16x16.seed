@@ -1,0 +1,5 @@
+#version=2.0
+(o) ellipse : 0, 0, 15, 15
+(x) ellipse : 2, 2, 13, 13
+(o) ellipse : 4, 4, 11, 11
+(x) ellipse : 6, 6, 9, 9

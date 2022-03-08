@@ -1,0 +1,5 @@
+#version=2.0
+(o) rectangle : 0, 0, 15, 15
+(x) rectangle : 2, 2, 13, 13
+(o) rectangle : 4, 4, 11, 11
+(x) rectangle : 6, 6, 9, 9
