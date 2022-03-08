@@ -1,7 +1,5 @@
 ---
-title: Game of Life, part 2
-author: Sophia Walsh-Long - n10779141
-date: 25/10/2020
+An implementation of Conway's Game of Life, made by Sophia Walsh Long as a university assignment in 2020
 ---
 
 ## Build Instructions
